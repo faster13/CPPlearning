@@ -1,2 +1,6 @@
 
 *.sdf
+
+VS2015/*/Debug/
+
+VS2015/*/*/Debug/
