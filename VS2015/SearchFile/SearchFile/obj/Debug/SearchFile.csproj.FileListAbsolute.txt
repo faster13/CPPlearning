@@ -1,0 +1,6 @@
+C:\Users\damas\Documents\Visual Studio 2015\Projects\SearchFile\SearchFile\bin\Debug\SearchFile.exe.config
+C:\Users\damas\Documents\Visual Studio 2015\Projects\SearchFile\SearchFile\bin\Debug\SearchFile.exe
+C:\Users\damas\Documents\Visual Studio 2015\Projects\SearchFile\SearchFile\bin\Debug\SearchFile.pdb
+C:\Users\damas\Documents\Visual Studio 2015\Projects\SearchFile\SearchFile\obj\Debug\SearchFile.csprojResolveAssemblyReference.cache
+C:\Users\damas\Documents\Visual Studio 2015\Projects\SearchFile\SearchFile\obj\Debug\SearchFile.exe
+C:\Users\damas\Documents\Visual Studio 2015\Projects\SearchFile\SearchFile\obj\Debug\SearchFile.pdb

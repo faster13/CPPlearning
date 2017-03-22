@@ -1,0 +1,17 @@
+﻿Сборка начата 26.10.2015 21:01:32.
+     1>Проект "G:\USERS\fAST\Documents\Visual Studio 2015\Projects\Moda\Moda\Moda.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Moda.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Moda.cpp
+         Moda.cpp
+     1>g:\users\fast\documents\visual studio 2015\projects\moda\moda\moda.cpp(35): warning C4018: <: несоответствие типов со знаком и без знака
+     1>g:\users\fast\documents\visual studio 2015\projects\moda\moda\moda.cpp(37): warning C4018: <: несоответствие типов со знаком и без знака
+     1>g:\users\fast\documents\visual studio 2015\projects\moda\moda\moda.cpp(50): warning C4018: <: несоответствие типов со знаком и без знака
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\USERS\fAST\Documents\Visual Studio 2015\Projects\Moda\Debug\Moda.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"G:\USERS\fAST\Documents\Visual Studio 2015\Projects\Moda\Debug\Moda.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\USERS\fAST\Documents\Visual Studio 2015\Projects\Moda\Debug\Moda.lib" /MACHINE:X86 Debug\Moda.obj
+         Debug\stdafx.obj
+         Moda.vcxproj -> G:\USERS\fAST\Documents\Visual Studio 2015\Projects\Moda\Debug\Moda.exe
+     1>Сборка проекта "G:\USERS\fAST\Documents\Visual Studio 2015\Projects\Moda\Moda\Moda.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.25

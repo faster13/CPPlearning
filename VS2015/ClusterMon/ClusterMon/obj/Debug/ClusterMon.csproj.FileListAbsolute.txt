@@ -1,0 +1,10 @@
+c:\users\damashkevich-vn\documents\visual studio 2015\Projects\ClusterMon\ClusterMon\bin\Debug\ClusterMon.exe.config
+c:\Users\damashkevich-vn\Documents\Visual Studio 2015\Projects\ClusterMon\ClusterMon\bin\Debug\ClusterMon.exe
+c:\Users\damashkevich-vn\Documents\Visual Studio 2015\Projects\ClusterMon\ClusterMon\bin\Debug\ClusterMon.pdb
+c:\Users\damashkevich-vn\Documents\Visual Studio 2015\Projects\ClusterMon\ClusterMon\obj\Debug\ClusterMon.csprojResolveAssemblyReference.cache
+c:\Users\damashkevich-vn\Documents\Visual Studio 2015\Projects\ClusterMon\ClusterMon\obj\Debug\ClusterMon.Properties.Resources.resources
+c:\Users\damashkevich-vn\Documents\Visual Studio 2015\Projects\ClusterMon\ClusterMon\obj\Debug\ClusterMon.csproj.GenerateResource.Cache
+c:\Users\damashkevich-vn\Documents\Visual Studio 2015\Projects\ClusterMon\ClusterMon\obj\Debug\ClusterMon.exe
+c:\Users\damashkevich-vn\Documents\Visual Studio 2015\Projects\ClusterMon\ClusterMon\obj\Debug\ClusterMon.pdb
+C:\Users\damashkevich-vn\documents\visual studio 2015\Projects\ClusterMon\ClusterMon\obj\Debug\ClusterMon.MainForm.resources
+C:\Users\damashkevich-vn\documents\visual studio 2015\Projects\ClusterMon\ClusterMon\bin\Debug\ServersList.accdb
