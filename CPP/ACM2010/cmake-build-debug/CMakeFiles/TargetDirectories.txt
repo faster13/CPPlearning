@@ -1,0 +1,3 @@
+/cygdrive/e/PROGRAMMING/CPPlearning/CPP/ACM2010/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/e/PROGRAMMING/CPPlearning/CPP/ACM2010/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/e/PROGRAMMING/CPPlearning/CPP/ACM2010/cmake-build-debug/CMakeFiles/ACM2010.dir
